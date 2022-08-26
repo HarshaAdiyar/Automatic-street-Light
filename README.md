@@ -10,7 +10,7 @@ Component Required:
   
 Project Goal: To reduce the power consumption by making street lights on and off automatically whenever Human,moving objects,animals and vehicale's.
 
-Implementation :  In street light we need keep IR sensors which will detect the movement of object towards light and gives signal to microcontroller which will turn on light and when object passed out there is another IR sensor which will turn off the street light.
+Implementation :  In street light we need keep IR sensors which will detect the movement of object towards light and gives signal to microcontroller which will turn on light and when object passed out there is another IR sensor which will turn off the street light.Relay module is used to turn on and off switch which will take low signal input from arduino and turn on 230 volts.
 
 Apllications:
 * Efficintly reduces the power consuption,
